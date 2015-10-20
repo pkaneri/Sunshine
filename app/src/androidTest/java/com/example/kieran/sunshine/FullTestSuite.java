@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 package com.example.kieran.sunshine;
-//insert comment here
 
 import android.test.suitebuilder.TestSuiteBuilder;
 
