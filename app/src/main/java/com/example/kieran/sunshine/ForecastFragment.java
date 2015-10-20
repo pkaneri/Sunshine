@@ -1,5 +1,5 @@
 package com.example.kieran.sunshine;
-
+//easy change
 import android.content.Intent;
 import android.database.Cursor;
 import android.net.Uri;
